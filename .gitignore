@@ -1,0 +1,4 @@
+node_moelues/
+.env
+.DS_Store
+coverage/
